@@ -1,0 +1,1 @@
+Theoretically developed a real-time sign language translation system using computer vision and machine learning to convert gestures into text/speech, enhancing communication for hearing impaired users.
